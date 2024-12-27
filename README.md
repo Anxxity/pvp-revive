@@ -1,4 +1,4 @@
-# pvp-revive
+# pvp-revive Developed for last pvp 
 
 
 This script provides a customizable player revive system for FiveM servers. It detects when a player is dead or dying and offers a seamless interaction to self-revive using a progress-based system.
