@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game "gta5"
 
-author "Remin Moahmmed"
+author "Remin Moahmmed & loot man"
 description 'A revive System for pvp'
 lua54 'yes'
 
